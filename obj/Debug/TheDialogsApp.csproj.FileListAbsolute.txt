@@ -1,0 +1,12 @@
+C:\Users\theav\source\repos\TheDialogsApp\bin\Debug\TheDialogsApp.exe.config
+C:\Users\theav\source\repos\TheDialogsApp\bin\Debug\TheDialogsApp.exe
+C:\Users\theav\source\repos\TheDialogsApp\bin\Debug\TheDialogsApp.pdb
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.csproj.AssemblyReference.cache
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.Properties.Resources.resources
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.DialogDemos.resources
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.csproj.GenerateResource.cache
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.csproj.CoreCompileInputs.cache
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.exe
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.pdb
+C:\Users\theav\source\repos\TheDialogsApp\obj\Debug\TheDialogsApp.FormUser.resources
