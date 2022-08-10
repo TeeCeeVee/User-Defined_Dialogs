@@ -33,6 +33,31 @@ namespace TheDialogsApp
 
         private void BtnCustom_Click(object sender, EventArgs e)
         {
+            // when click the button, FormUser displays
+
+            // how to make the FormUser show up when clicked?
+            // first create an instance of FormUser - how to connect the main form and the second form
+
+           FormUser formUser = new FormUser();
+            // second - use ShowDialog to display the FormUser
+            // in order to show the results from the FormUser, use DialogResult
+            //formUser.ShowDialog();
+            DialogResult result = formUser.ShowDialog(); // feeding the data into the result box
+
+         
+            if (result == DialogResult.OK)
+            {
+                // formUser.UserName and formUser.UserAge from FormUser
+                MessageBox.Show("Your name is " + formUser.UserName + ". You are " + formUser.UserAge + " years old.");
+
+            }
+
+            else
+            {
+                MessageBox.Show("You pressed Cancel");
+            }
+
+
 
 
         }

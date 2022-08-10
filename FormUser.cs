@@ -16,6 +16,17 @@ namespace TheDialogsApp
         {
             InitializeComponent();
         }
+        // return the input from the textname box
+        public string UserName
+        {
+            get { return TxtName.Text; }
+        }
+
+        // return the input from the textage box
+        public string UserAge
+        {
+            get { return TxtAge.Text; }
+        }
 
 
  
